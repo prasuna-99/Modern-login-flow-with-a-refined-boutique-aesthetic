@@ -107,7 +107,7 @@ The interface combines a warm, boutique-inspired color palette with modern UI ef
 
 ## Author
 
-**Prasuna Shahidulal**
+**Prasuna Shahi Dulal**
 
 - GitHub: [@prasuna-99](https://github.com/prasuna-99)
 
